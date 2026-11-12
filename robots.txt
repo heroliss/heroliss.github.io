@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://heroliss.github.io/liss-works/sitemap.xml
